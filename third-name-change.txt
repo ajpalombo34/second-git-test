@@ -1,1 +1,3 @@
 this is to ensure the name change has functioned
+
+it did not function, but it seems as if the repository required a README.md file first, as it assumed the name change was this file.
