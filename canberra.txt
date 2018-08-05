@@ -1,0 +1,5 @@
+alias open='xdg-open'
+alias new='touch'
+alias dnld='sudo|apt-get|install' #doesn't work lmao
+
+what the heck is canberra
